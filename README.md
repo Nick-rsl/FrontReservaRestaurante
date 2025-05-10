@@ -1,6 +1,6 @@
 # 🧩 Sistema de Reserva De Restaurante
 
-Este projeto é um sistema web completo com back-end em **Java (Spring)** e front-end em **Angular**, utilizando boas práticas de versionamento, documentação e integração contínua.
+Este projeto é um sistema web completo com back-end em **Java (Spring)** e front-end em **React**, utilizando boas práticas de versionamento, documentação e integração contínua.
 
 ---
 
